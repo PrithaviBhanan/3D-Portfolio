@@ -1,4 +1,5 @@
 //This File is for Spacing of all content in center
+import React from 'react'
 import {motion} from 'framer-motion'
 import {styles} from '../styles'
 import {staggerContainer} from '../utils/motion'
